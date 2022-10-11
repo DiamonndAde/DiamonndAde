@@ -3,13 +3,15 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=DiamonndAde&style=flat-square&color=blue" alt="Profile counter badge" />
 
 
+
 <!-- Animation Typing -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Ayomide+Adedeji.;I'm+a+fullstack||MERN+Developer;"></a>
 </p>
 
-
+<!-- Hactoberfest badge -->
+[![@diamonndade's Holopin board](https://holopin.io/api/user/board?user=diamonndade)](https://holopin.io/@diamonndade)
 
 <!--Image Gif-->
 <img  src="/code.gif" height="290px" align="right"/>
